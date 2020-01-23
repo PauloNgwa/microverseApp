@@ -7,6 +7,7 @@
 .nav {
 width: 10px; background-color: aqua; border: solid black 1px; text-decoration: none;
 padding: 4px; }
+.nav:hover {background-color: red; transition-duration: 2s;}
 
 body {background: rgb(163, 163, 190);
 width: 80%; padding-left: 10%;}
