@@ -1,0 +1,13 @@
+ #welcome-section {height:100vh;background-color: burlywood;}
+#nav-bar {
+    
+    position:absolute; top:0vh;
+    
+    }
+.nav {
+width: 10px; background-color: aqua; border: solid black 1px; text-decoration: none;
+padding: 4px; }
+
+body {background: rgb(163, 163, 190);
+width: 80%; padding-left: 10%;}
+
